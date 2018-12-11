@@ -4,9 +4,7 @@
 
 This project is based on Material Chess - Chesstastic & Droidfish. I'm developing this as a hobby.
 
-#Google Play 
 
-[Take a look to the app!](https://play.google.com/store/apps/details?id=org.mdc.chess)
 
 #Goals:
 
